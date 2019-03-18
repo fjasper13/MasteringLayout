@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeToLearn</string>
+    <string name="logo">Logo Panda</string>
+    <string-array name="options">
+        <item>Jasper Linear Layout</item>
+        <item>Jasper Relative Layout</item>
+        <item>Jasper Card View Sidekick</item>
+    </string-array>
+</resources>
